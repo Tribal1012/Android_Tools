@@ -1,0 +1,3 @@
+Command > 
+
+"C:\Users\Tribal\Desktop\정리\BOB\수업\신동휘 멘토님\insertlogger.py" "C:\Users\Tribal\Desktop\정리\BOB\수업\신동휘 멘토님\nexon play\smali" "C:\Users\Tribal\Desktop\정리\BOB\수업\신동휘 멘토님\smali"
