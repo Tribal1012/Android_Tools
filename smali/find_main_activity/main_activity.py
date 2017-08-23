@@ -21,7 +21,7 @@ def Check_Main_Activity(activity):
 		if not result:
 			continue
 		if result[0].find("LAUNCHER") != -1:
-			print "Find : " + result[0]
+			print "[+] Find : " + result[0]
 			return 1
 
 	return 0
